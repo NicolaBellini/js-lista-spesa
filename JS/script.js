@@ -21,7 +21,7 @@ while(validExtraction){
     validExtraction = false;
     output.innerHTML += ` list items= ${shopList}` 
   }
-  
+
 }
 
 // (Math.floor(Math.random) * )
